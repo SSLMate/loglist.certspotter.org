@@ -1,0 +1,19 @@
+{
+  "operators": [
+    {
+      "name": "Google",
+      "email": [
+        "google-ct-logs@googlegroups.com"
+      ],
+      "logs": [
+        {
+          "description": "Google 'Submariner' log",
+          "log_id": "qJnYeAySkKr0YvMYgMz71SRR6XDQ+/WR73Ww2ZtkVoE=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOfifIGLUV1Voou9JLfA5LZreRLSUMOCeeic8q3Dw0fpRkGMWV0Gtq20fgHQweQJeLVmEByQj9p81uIW4QkWkTw==",
+          "url": "https://ct.googleapis.com/submariner/",
+          "mmd": 86400
+        }
+      ]
+    }
+  ]
+}
