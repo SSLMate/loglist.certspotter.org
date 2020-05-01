@@ -373,6 +373,17 @@
             "start_inclusive": "2022-01-01T00:00:00Z",
             "end_exclusive": "2023-01-07T00:00:00Z"
           }
+        },
+        {
+          "description": "Let's Encrypt 'Oak2023' log",
+          "log_id": "tz77JN+cTbp18jnFulj0bF38Qs96nzXEnh0JgSXttJk=",
+          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsz0OeL7jrVxEXJu+o4QWQYLKyokXHiPOOKVUL3/TNFFquVzDSer7kZ3gijxzBp98ZTgRgMSaWgCmZ8OD74mFUQ==",
+          "url": "https://oak.ct.letsencrypt.org/2023/",
+          "mmd": 86400,
+          "temporal_interval": {
+            "start_inclusive": "2023-01-01T00:00:00Z",
+            "end_exclusive": "2024-01-07T00:00:00Z"
+          }
         }
       ]
     }
