@@ -12,11 +12,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEVG18id3qnfC6X/RtYHo3TwIlvxz2b4WurxXfaW7t26maKZfymXYe5jNGHif0vnDdWde6z/7Qco6wVw+dN4liow==",
           "url": "https://ct.googleapis.com/logs/argon2017/",
           "mmd": 86400,
-          "state": {
-            "rejected": {
-              "timestamp": "2018-02-27T00:00:00Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2017-01-01T00:00:00Z",
             "end_exclusive": "2018-01-01T00:00:00Z"
@@ -28,11 +23,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0gBVBa3VR7QZu82V+ynXWD14JM3ORp37MtRxTmACJV5ZPtfUA7htQ2hofuigZQs+bnFZkje+qejxoyvk2Q1VaA==",
           "url": "https://ct.googleapis.com/logs/argon2018/",
           "mmd": 86400,
-          "state": {
-            "rejected": {
-              "timestamp": "2019-05-07T00:00:00Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2018-01-01T00:00:00Z",
             "end_exclusive": "2019-01-01T00:00:00Z"
@@ -44,11 +34,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEI3MQm+HzXvaYa2mVlhB4zknbtAT8cSxakmBoJcBKGqGwYS0bhxSpuvABM1kdBTDpQhXnVdcq+LSiukXJRpGHVg==",
           "url": "https://ct.googleapis.com/logs/argon2019/",
           "mmd": 86400,
-          "state": {
-            "rejected": {
-              "timestamp": "2020-02-07T00:00:00Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2019-01-01T00:00:00Z",
             "end_exclusive": "2020-01-01T00:00:00Z"
@@ -60,11 +45,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6Tx2p1yKY4015NyIYvdrk36es0uAc1zA4PQ+TGRY+3ZjUTIYY9Wyu+3q/147JG4vNVKLtDWarZwVqGkg6lAYzA==",
           "url": "https://ct.googleapis.com/logs/argon2020/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2018-06-15T02:30:13Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2020-01-01T00:00:00Z",
             "end_exclusive": "2021-01-01T00:00:00Z"
@@ -76,11 +56,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETeBmZOrzZKo4xYktx9gI2chEce3cw/tbr5xkoQlmhB18aKfsxD+MnILgGNl0FOm0eYGilFVi85wLRIOhK8lxKw==",
           "url": "https://ct.googleapis.com/logs/argon2021/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2018-06-15T02:30:13Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2021-01-01T00:00:00Z",
             "end_exclusive": "2022-01-01T00:00:00Z"
@@ -92,11 +67,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEeIPc6fGmuBg6AJkv/z7NFckmHvf/OqmjchZJ6wm2qN200keRDg352dWpi7CHnSV51BpQYAj1CQY5JuRAwrrDwg==",
           "url": "https://ct.googleapis.com/logs/argon2022/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2019-12-17T18:38:01Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2022-01-01T00:00:00Z",
             "end_exclusive": "2023-01-01T00:00:00Z"
@@ -108,11 +78,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0JCPZFJOQqyEti5M8j13ALN3CAVHqkVM4yyOcKWCu2yye5yYeqDpEXYoALIgtM3TmHtNlifmt+4iatGwLpF3eA==",
           "url": "https://ct.googleapis.com/logs/argon2023/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2019-12-17T18:38:01Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2023-01-01T00:00:00Z",
             "end_exclusive": "2024-01-01T00:00:00Z"
@@ -137,11 +102,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE01EAhx4o0zPQrXTcYjgCt4MVFsT0Pwjzb1RwrM0lhWDlxAYPP6/gyMCXNkOn/7KFsjL7rwk78tHMpY8rXn8AYg==",
           "url": "https://ct.cloudflare.com/logs/nimbus2020/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2018-06-15T02:30:13Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2020-01-01T00:00:00Z",
             "end_exclusive": "2021-01-01T00:00:00Z"
@@ -153,11 +113,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExpon7ipsqehIeU1bmpog9TFo4Pk8+9oN8OYHl1Q2JGVXnkVFnuuvPgSo2Ep+6vLffNLcmEbxOucz03sFiematg==",
           "url": "https://ct.cloudflare.com/logs/nimbus2021/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2018-06-15T02:30:13Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2021-01-01T00:00:00Z",
             "end_exclusive": "2022-01-01T00:00:00Z"
@@ -169,11 +124,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESLJHTlAycmJKDQxIv60pZG8g33lSYxYpCi5gteI6HLevWbFVCdtZx+m9b+0LrwWWl/87mkNN6xE0M4rnrIPA/w==",
           "url": "https://ct.cloudflare.com/logs/nimbus2022/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2019-10-31T19:22:00Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2022-01-01T00:00:00Z",
             "end_exclusive": "2023-01-01T00:00:00Z"
@@ -185,11 +135,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEi/8tkhjLRp0SXrlZdTzNkTd6HqmcmXiDJz3fAdWLgOhjmv4mohvRhwXul9bgW0ODgRwC9UGAgH/vpGHPvIS1qA==",
           "url": "https://ct.cloudflare.com/logs/nimbus2023/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2019-10-31T19:22:00Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2023-01-01T00:00:00Z",
             "end_exclusive": "2024-01-01T00:00:00Z"
@@ -209,11 +154,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4hHIyMVIrR9oShgbQMYEk8WX1lmkfFKB448Gn93KbsZnnwljDHY6MQqEnWfKGgMOq0gh3QK48c5ZB3UKSIFZ4g==",
           "url": "https://nessie2020.ct.digicert.com/log/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2019-05-09T22:11:02Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2020-01-01T00:00:00Z",
             "end_exclusive": "2021-01-01T00:00:00Z"
@@ -225,11 +165,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9o7AiwrbGBIX6Lnc47I6OfLMdZnRzKoP5u072nBi6vpIOEooktTi1gNwlRPzGC2ySGfuc1xLDeaA/wSFGgpYFg==",
           "url": "https://nessie2021.ct.digicert.com/log/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2019-05-09T22:11:02Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2021-01-01T00:00:00Z",
             "end_exclusive": "2022-01-01T00:00:00Z"
@@ -241,11 +176,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJyTdaAMoy/5jvg4RR019F2ihEV1McclBKMe2okuX7MCv/C87v+nxsfz1Af+p+0lADGMkmNd5LqZVqxbGvlHYcQ==",
           "url": "https://nessie2022.ct.digicert.com/log/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2019-05-09T22:11:02Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2022-01-01T00:00:00Z",
             "end_exclusive": "2023-01-01T00:00:00Z"
@@ -257,11 +187,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEXu8iQwSCRSf2CbITGpUpBtFVt8+I0IU0d1C36Lfe1+fbwdaI0Z5FktfM2fBoI1bXBd18k2ggKGYGgdZBgLKTg==",
           "url": "https://nessie2023.ct.digicert.com/log/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2019-10-31T19:22:00Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2023-01-01T00:00:00Z",
             "end_exclusive": "2024-01-01T00:00:00Z"
@@ -281,11 +206,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfzb42Zdr/h7hgqgDCo1vrNJqGqbcUvJGJEER9DDqp19W/wFSB0l166hD+U5cAXchpH8ZkBNUuvOHS0OnJ4oJrQ==",
           "url": "https://oak.ct.letsencrypt.org/2020/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2020-01-27T18:18:26Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2020-01-01T00:00:00Z",
             "end_exclusive": "2021-01-07T00:00:00Z"
@@ -297,11 +217,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELsYzGMNwo8rBIlaklBIdmD2Ofn6HkfrjK0Ukz1uOIUC6Lm0jTITCXhoIdjs7JkyXnwuwYiJYiH7sE1YeKu8k9w==",
           "url": "https://oak.ct.letsencrypt.org/2021/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2020-01-27T18:18:26Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2021-01-01T00:00:00Z",
             "end_exclusive": "2022-01-07T00:00:00Z"
@@ -313,11 +228,6 @@
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhjyxDVIjWt5u9sB/o2S8rcGJ2pdZTGA8+IpXhI/tvKBjElGE5r3de4yAfeOPhqTqqc+o7vPgXnDgu/a9/B+RLg==",
           "url": "https://oak.ct.letsencrypt.org/2022/",
           "mmd": 86400,
-          "state": {
-            "usable": {
-              "timestamp": "2020-01-27T18:18:26Z"
-            }
-          },
           "temporal_interval": {
             "start_inclusive": "2022-01-01T00:00:00Z",
             "end_exclusive": "2023-01-07T00:00:00Z"
