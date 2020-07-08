@@ -202,13 +202,6 @@
           "mmd": 86400
         },
         {
-          "description": "DigiCert Log Server 2",
-          "log_id": "h3W/51l8+IxDmV+9827/Vo1HVjb/SrVgwbTq/16ggw8=",
-          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzF05L2a4TH/BLgOhNKPoioYCrkoRxvcmajeb8Dj4XQmNY+gxa4Zmz3mzJTwe33i0qMVp+rfwgnliQ/bM/oFmhA==",
-          "url": "https://ct2.digicert-ct.com/log/",
-          "mmd": 86400
-        },
-        {
           "description": "DigiCert Yeti2020 Log",
           "log_id": "8JWkWfIA0YJAEC0vk4iOrUv+HUfjmeHQNKawqKqOsnM=",
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEURAG+Zo0ac3n37ifZKUhBFEV6jfcCzGIRz3tsq8Ca9BP/5XUHy6ZiqsPaAEbVM0uI3Tm9U24RVBHR9JxDElPmg==",
