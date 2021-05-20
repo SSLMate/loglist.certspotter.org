@@ -335,17 +335,6 @@
       ],
       "logs": [
         {
-          "description": "Let's Encrypt 'Oak2020' log",
-          "log_id": "5xLysDd+GmL7jskMYYTx6ns3y1YdESZb8+DzS/JBVG4=",
-          "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfzb42Zdr/h7hgqgDCo1vrNJqGqbcUvJGJEER9DDqp19W/wFSB0l166hD+U5cAXchpH8ZkBNUuvOHS0OnJ4oJrQ==",
-          "url": "https://oak.ct.letsencrypt.org/2020/",
-          "mmd": 86400,
-          "temporal_interval": {
-            "start_inclusive": "2020-01-01T00:00:00Z",
-            "end_exclusive": "2021-01-07T00:00:00Z"
-          }
-        },
-        {
           "description": "Let's Encrypt 'Oak2021' log",
           "log_id": "lCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosI=",
           "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELsYzGMNwo8rBIlaklBIdmD2Ofn6HkfrjK0Ukz1uOIUC6Lm0jTITCXhoIdjs7JkyXnwuwYiJYiH7sE1YeKu8k9w==",
